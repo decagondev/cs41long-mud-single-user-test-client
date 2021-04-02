@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.game_info > p {
+  display: flex;
+}
+.game__info img {
+  width: 400px;
+  height: 200px;
+  margin: 40px;
+}
